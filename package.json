@@ -1,0 +1,14 @@
+{
+  "name": "syntiox-account",
+  "version": "1.0.0",
+  "description": "Syntiox Account Center & SSO API",
+  "main": "api/generate-token.js",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "cookie": "^0.6.0",
+    "firebase-admin": "^12.1.0",
+    "marked": "^13.0.0"
+  }
+}
